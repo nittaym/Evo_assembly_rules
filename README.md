@@ -12,6 +12,7 @@ This repository includes the data, along with the analysis code used to for the 
 `counts_uni.xlsx`: count data from the ~400 generation experiment
 `counts_exp19.xlsx`: count data from ~50 genration experiment
 `p1_growth_rate.xlsx`, `p2_growth_rate.xlsx`: raw OD measurments used to infer growth rates
+
 `mapping_growth_rate.xlsx`: A mapping file for what is present in each well on p1 and p2
 
 #### Proccesed_data:
