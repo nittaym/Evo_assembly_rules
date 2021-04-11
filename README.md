@@ -1,6 +1,8 @@
 # Evo_assembly_rules
 This repository includes the data, along with the analysis code used to for the study "Community composition of microbial microcosms follows simple assembly rules at evolutionary timescales" Meroz et al. 202-.
+
 List of files is given below:
+
   Analysis code.ipynb: the code used for the main analysis of this study, including the code used for producing the main test figures.
   Growth_rates.ipynb: the code used to infer growth rates
   Co_Evo_Func.ipynb: functions used troughout the analysis
