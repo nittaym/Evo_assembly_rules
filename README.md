@@ -1,5 +1,5 @@
 # Evo_assembly_rules
-This repository includes the data, along with the analysis code used to for the study "Community composition of microbial microcosms follows simple assembly rules at evolutionary timescales" Meroz et al. 202-.
+This repository includes the data, along with the analysis code used to for the study "Community composition of microbial microcosms follows simple assembly rules at evolutionary timescales" Meroz et al. 2021.
 
 ### List of files is given below:
 
